@@ -1,11 +1,9 @@
-### Hi there! I'm Carlos Eduardo Rincon 👋
-
-
+<h1>### Hi there! I'm Carlos Eduardo Rincon</h1> 👋
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning more of Java 
 
-<div>
+<div align="center">
   <a href="https://github.com/carlosEduardoRincon">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosEduardoRincon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardoRincon&layout=compact&langs_count=7&theme=dark"/>
