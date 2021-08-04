@@ -1,4 +1,4 @@
-<h1>### Hi there! I'm Carlos Eduardo Rincon</h1> 👋
+<h1>Hi there! I'm Carlos Eduardo Rincon 👋</h1> 
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning more of Java 
