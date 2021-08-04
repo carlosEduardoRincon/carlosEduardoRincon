@@ -1,7 +1,13 @@
 <h1>Hi there! I'm Carlos Eduardo Rincon 👋</h1> 
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning more of Java 
+<div> 
+  <a href = "mailto:carlos.rincon@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carloseduardorincon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+- 🌱 I’m currently learning Java 
+- 🎓 What I know? Java, C, HTML, CSS, SQL, API: JDBC
+ 
 
 <div align="center">
   <a href="https://github.com/carlosEduardoRincon">
@@ -18,8 +24,5 @@
 
 ##
 
-<div> 
-  <a href = "mailto:carlos.rincon@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carloseduardorincon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
  
