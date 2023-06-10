@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/carloseduardorincon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🌱 I’m currently learning Java 
-- 🎓 What I know? Java, C, HTML, CSS, SQL, API: JDBC
+- 🌱 I’m currently learning JavaScript/Node.js 
+- 🎓 What I know? Java, C, HTML, CSS, SQL
  
 
 <div align="center" style="display: inline_block">
