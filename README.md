@@ -6,7 +6,7 @@
 </div>
 
 - 🌱 I’m currently learning JavaScript/Node.js 
-- 🎓 What I know? Java, C, HTML, CSS, SQL
+- 🎓 What I know? Java and C
  
 
 <div align="center" style="display: inline_block">
