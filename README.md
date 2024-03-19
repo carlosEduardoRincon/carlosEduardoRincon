@@ -25,8 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloseduardorincon&show_icons=true&locale=en&layout=compact" alt="carloseduardorincon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloseduardorincon&show_icons=true&locale=en" alt="carloseduardorincon" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduardorincon&" alt="carloseduardorincon" /></p>
 
 <div align="center" style="display: inline_block">
