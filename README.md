@@ -21,10 +21,6 @@
 </p>
 
 <div align="center" style="display: inline_block">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloseduardorincon&show_icons=true&locale=en&layout=compact" alt="carloseduardorincon" />
-</div>
-</br>
-<div align="center" style="display: inline_block">
   <a href="https://github.com/carlosEduardoRincon">
     <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardoRincon&layout=compact&langs_count=7&theme=dark"/>
 </div>
