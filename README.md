@@ -22,8 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloseduardorincon&show_icons=true&locale=en&layout=compact" alt="carloseduardorincon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduardorincon&" alt="carloseduardorincon" /></p>
-
 <div align="center" style="display: inline_block">
   <a href="https://github.com/carlosEduardoRincon">
     <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardoRincon&layout=compact&langs_count=7&theme=dark"/>
