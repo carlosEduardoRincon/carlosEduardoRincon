@@ -2,7 +2,6 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/carlosEduardoRincon">
-    <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=carlosEduardoRincon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardoRincon&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
