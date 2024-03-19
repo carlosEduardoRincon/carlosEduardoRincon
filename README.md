@@ -1,6 +1,9 @@
 <h1>Hi there! I'm Carlos Eduardo Rincon (cadu) 👋</h1> 
 <h3 align="center">An enthusiastic and curious back-end developer from Brazil</h3>
 
+- 🔭 I’m currently working on **OpenLabs**
+- 📫 How to reach me **carlos.rincon@aluno.ifsp.edu.br**
+
 <div>
   <p>
     I work as a systems development analyst at a leading company in the telecommunications market, my main focus is developing and improving APIs, in addition to assisting throughout the entire development process of different projects.
@@ -12,16 +15,11 @@
   </p>
 </div>
 
-<h1 align="center">Hi 👋, I'm Carlos Eduardo Rincon (cadu)</h1>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carloseduardorincon&label=Profile%20views&color=0e75b6&style=flat" alt="carloseduardorincon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carloseduardorincon" alt="carloseduardorincon" /></a> </p>
 
-- 🔭 I’m currently working on **OpenLabs**
-
-- 📫 How to reach me **carlos.rincon@aluno.ifsp.edu.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
