@@ -6,7 +6,7 @@
 
 <div>
   <p>
-    I work as a mid-level backend developer at one of the largest banks in the world. My main responsibilities involve the development and optimization of backend systems, where I actively contribute to the development lifecycle. 
+    I work as a mid-level backend developer at one of the largest banks in Brazil. My main responsibilities involve the development and optimization of backend systems, where I actively contribute to the development lifecycle. 
   </p>
   <p> 
     As Max Weber said, "Man would not have attained the possible unless time and again he had reached out for the impossible." It is in this spirit that I dedicate myself daily to seeking innovative and efficient solutions for the projects I participate in.
