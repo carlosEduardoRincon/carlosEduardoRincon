@@ -12,12 +12,3 @@
     As Max Weber said, "Man would not have attained the possible unless time and again he had reached out for the impossible." It is in this spirit that I dedicate myself daily to seeking innovative and efficient solutions for the projects I participate in.
   </p>
 </div>
-
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/carlosEduardoRincon">
-    <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardoRincon&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
- 
-
