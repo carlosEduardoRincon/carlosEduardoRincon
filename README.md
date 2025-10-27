@@ -1,7 +1,7 @@
 <h1>Hi there! I'm Carlos Eduardo Rincon (cadu) 👋</h1> 
 <h3 align="center">An enthusiastic and curious back-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Bradesco**
+- 🔭 I’m currently working at **Bradesco**
 - 📫 How to reach me **carlos.rincon@aluno.ifsp.edu.br**
 
 <div>
